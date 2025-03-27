@@ -12,6 +12,6 @@
 
 ### Herramientas utilizadas:
 
-- [Figma](https://www.figma.com/design/SQc65VZPjsXZUjksXoT3hi/Untitled?node-id=14-72&t=A8yBufGowi6lMp8c-0 )
+- [Figma](https://www.figma.com/design/wsXSt2tnfR20mrAhBfu6E7/Untitled?node-id=40-394&t=jDnpyjy9KJzq6z9m-0)
 
 - [Colab](https://colab.research.google.com/drive/1om2_iGX3bjis6etyEzElpiECPXfmgXeL?usp=sharing)
